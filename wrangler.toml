@@ -16,7 +16,8 @@ preview_id = "自己的KV ID"
 # 环境变量配置
 # 部署前请修改为安全的密码
 [vars]
-CHAT_PASSWORD = "自己的密码"
+CHAT_PASSWORD = "aa789789"
+
 
 
 
